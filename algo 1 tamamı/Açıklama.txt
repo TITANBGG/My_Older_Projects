@@ -1,0 +1,12 @@
+ALGORTİMA ve PROGRAMLAMA I - Ders 1: Temel kavramlar ve akış şemaları
+
+
+Sunum dönem içerisinde gerçekleştiğinden dolayı sunumda yer alan ödev notu gibi açıklamaları dikkate almayınız.
+
+Akisdiyagramlari_ornekler_1 içerisindeki çözümler farklılık gösterebilir. Çözümünüzü doğrulatmak için sorabilirsiniz.
+
+Ekstra örnekler:
+- Girilen N elemandan negatif ve pozitif elemanların ayrı ayrı ortalamasını bulan akış şeması
+- Verilen kenarlarına göre bir üçgenin ne çeşit olduğunu bulan akış şeması
+
+Haftaya https://leetcode.com/problemset/ adresinde yer alan 1, 9 ve 13. soruları için algoritma veya akış şeması üzerine çalışarak geliniz.
