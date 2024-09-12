@@ -1,0 +1,14 @@
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\bin\Debug\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.exe
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\bin\Debug\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.deps.json
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\bin\Debug\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.runtimeconfig.json
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\bin\Debug\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.dll
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\bin\Debug\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.pdb
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\obj\Debug\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\obj\Debug\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.AssemblyInfoInputs.cache
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\obj\Debug\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.AssemblyInfo.cs
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\obj\Debug\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.csproj.CoreCompileInputs.cache
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\obj\Debug\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.dll
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\obj\Debug\net8.0\refint\Ders2_ EnbuyukEnkucukSayiBulma.dll
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\obj\Debug\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.pdb
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\obj\Debug\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.genruntimeconfig.cache
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\obj\Debug\net8.0\ref\Ders2_ EnbuyukEnkucukSayiBulma.dll

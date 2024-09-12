@@ -1,0 +1,14 @@
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\birden 100 e kadar sayan uygulama\bin\Debug\net8.0\birden 100 e kadar sayan uygulama.exe
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\birden 100 e kadar sayan uygulama\bin\Debug\net8.0\birden 100 e kadar sayan uygulama.deps.json
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\birden 100 e kadar sayan uygulama\bin\Debug\net8.0\birden 100 e kadar sayan uygulama.runtimeconfig.json
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\birden 100 e kadar sayan uygulama\bin\Debug\net8.0\birden 100 e kadar sayan uygulama.dll
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\birden 100 e kadar sayan uygulama\bin\Debug\net8.0\birden 100 e kadar sayan uygulama.pdb
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\birden 100 e kadar sayan uygulama\obj\Debug\net8.0\birden 100 e kadar sayan uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\birden 100 e kadar sayan uygulama\obj\Debug\net8.0\birden 100 e kadar sayan uygulama.AssemblyInfoInputs.cache
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\birden 100 e kadar sayan uygulama\obj\Debug\net8.0\birden 100 e kadar sayan uygulama.AssemblyInfo.cs
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\birden 100 e kadar sayan uygulama\obj\Debug\net8.0\birden 100 e kadar sayan uygulama.csproj.CoreCompileInputs.cache
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\birden 100 e kadar sayan uygulama\obj\Debug\net8.0\birden 100 e kadar sayan uygulama.dll
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\birden 100 e kadar sayan uygulama\obj\Debug\net8.0\refint\birden 100 e kadar sayan uygulama.dll
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\birden 100 e kadar sayan uygulama\obj\Debug\net8.0\birden 100 e kadar sayan uygulama.pdb
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\birden 100 e kadar sayan uygulama\obj\Debug\net8.0\birden 100 e kadar sayan uygulama.genruntimeconfig.cache
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\birden 100 e kadar sayan uygulama\obj\Debug\net8.0\ref\birden 100 e kadar sayan uygulama.dll

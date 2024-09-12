@@ -1,0 +1,4 @@
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\obj\Release\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\obj\Release\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.AssemblyInfoInputs.cache
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\obj\Release\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.AssemblyInfo.cs
+C:\Users\alinebierreset\Desktop\C programlama denemelerim\Ders2_ EnbuyukEnkucukSayiBulma\obj\Release\net8.0\Ders2_ EnbuyukEnkucukSayiBulma.csproj.CoreCompileInputs.cache

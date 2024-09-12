@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3- SwitchCase4İşlme yapma", "Ders3- SwitchCase4İşlme yapma.csproj", "{BB5CC1D2-6873-4B43-9773-EF63E16614F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB5CC1D2-6873-4B43-9773-EF63E16614F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB5CC1D2-6873-4B43-9773-EF63E16614F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB5CC1D2-6873-4B43-9773-EF63E16614F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB5CC1D2-6873-4B43-9773-EF63E16614F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA718DAB-D59C-4459-A046-A64A2EF1B059}
+	EndGlobalSection
+EndGlobal

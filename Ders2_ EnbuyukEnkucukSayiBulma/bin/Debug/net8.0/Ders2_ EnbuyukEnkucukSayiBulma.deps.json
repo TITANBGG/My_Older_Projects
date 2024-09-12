@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ders2_ EnbuyukEnkucukSayiBulma/1.0.0": {
+        "runtime": {
+          "Ders2_ EnbuyukEnkucukSayiBulma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders2_ EnbuyukEnkucukSayiBulma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
